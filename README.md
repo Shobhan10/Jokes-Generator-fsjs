@@ -11,7 +11,7 @@ Hi 👋 I am Shobhan Sundar Goutam. This is a Jokes Generator app where random j
 - ### Learnings from this project:-
 
   - Learned to use `fetch()` method.
-  - Learned to handle apis.
+  - Learned to handle APIs.
 
 - It took around _2 hours_ to complete.
 
